@@ -10,7 +10,7 @@ document.getElementById("form").addEventListener('keyup' , search);
 function getURL(){
     // GENERATING URL
     var initial_url = "https://superheroapi.com/api.php/" ;
-    var api_token = "3181413508575888";
+    var api_token = "1940170466159634";
     var mid_url = "/search/";
     var entered_name = document.getElementById("user-input").value;
     var url;
